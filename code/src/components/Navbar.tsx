@@ -180,7 +180,7 @@ const NavLinks = ({ mobile = false }: { mobile?: boolean }) => {
           className={`${
             mobile
               ? "p-2 block hover:bg-gray-100 dark:hover:bg-gray-800 rounded-md"
-              : "text-sm font-medium transition-colors hover:text-primary"
+              : "text-sm font-medium text-primary"
           } ${
             location.pathname === link.path
               ? "text-primary font-semibold"
