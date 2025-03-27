@@ -19,7 +19,9 @@ SuggestorX --> AI-Powered Recommendation Platform to discover products, services
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
+http://10.213.175.183:8080/
 📹 [Video Demo](#) (if applicable)  
+https://drive.google.com/file/d/1jEyDwJzxUCEvSWp3mBbI-S-uoh1H6IW2/view?usp=drive_link
 🖼️ Screenshots:
 
 ![Screenshot 1](link-to-image)
